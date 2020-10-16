@@ -38,7 +38,7 @@
 			</container>
 		</configuration>
 	</plugin>
-	<!----Jacoco plugin---->
+	<!-- jacoco plugin -->
 	<plugin>
 	<groupId>org.jacoco</groupId>
 	<artifactId>jacoco-maven-plugin</artifactId>

@@ -38,20 +38,7 @@
 			</container>
 		</configuration>
 	</plugin>
-	<!-- jacoco plugin -->
-	<plugin>
-	<groupId>org.jacoco</groupId>
-	<artifactId>jacoco-maven-plugin</artifactId>
-	<version>0.8.2</version>
-	<executions>
-		<execution>
-			<goals>
-				<goal>prepare-agent</goal>
-			</goals>
-		</execution>
-	
-	</executions>
-</plugin>		
+			
 		<!-- Maven Plugin for Jetty -->
 <!-- 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>

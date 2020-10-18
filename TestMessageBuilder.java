@@ -1,4 +1,4 @@
-package com.mkyong.examples;
+package com.javarticles.webapp;
 
 import org.junit.jupiter.api.Test;
 
